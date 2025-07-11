@@ -1,3 +1,33 @@
+#
+📊 IA.Data.Science
+#
+
+##
+Este repositório contém um projeto de análise de dados e aprendizado de máquina utilizando Python. O objetivo é aplicar técnicas de ciência de dados em um conjunto de dados para extrair insights e treinar modelos preditivos.
+##
+
+#
+🔍 Objetivo
+#
+
+##
+Explorar, limpar, visualizar e modelar dados com foco em aprendizado supervisionado e não supervisionado, utilizando ferramentas amplamente utilizadas no mercado.
+##
+
+#
+🛠️ Tecnologias Utilizadas
+#
+
+##
+>- __Python (Jupyter Notebook)__
+>- __Pandas__
+>- __Numpy__
+>- __atplotlib e Seaborn__
+>- __Scikit-learn__
+##
+
+
+
 ![image](https://github.com/user-attachments/assets/1715658b-822f-49e6-8d59-66642a4a2c74)
 
 ![image](https://github.com/user-attachments/assets/b9b460a6-c9d7-45bb-bf55-16212267d3b1)
