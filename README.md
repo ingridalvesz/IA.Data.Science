@@ -1,7 +1,6 @@
 # 📊 IA.Data.Science
 
 ## Este repositório contém um projeto de análise de dados e aprendizado de máquina utilizando Python. O objetivo é aplicar técnicas de ciência de dados em um conjunto de dados para extrair insights e treinar modelos preditivos.
-#
 
 # 🔍 Objetivo
 
@@ -14,9 +13,34 @@
 >- __Numpy__
 >- __atplotlib e Seaborn__
 >- __Scikit-learn__
+
+# 📁 Estrutura do Projeto
+
+├── imagem                # Pasta com imagems dos gráficos obtidos
+├── dataia.ipynb          # Aquivo Notebook com toda a análise
+├── README.md             # Descrição do projeto
+
+# 📈 Etapas Realizadas
+
+>- __Importação e limpeza dos dados__
+
+>- __Análise exploratória (EDA)__
+
+>- __Visualização dos dados__
+
+>- __Modelagem (algoritmos de ML)__
+
+>- __Avaliação de desempenho dos modelos__
+
+# 🧠 Resultados
+
+>- __Modelos testados: [Ex: Regressão Logística, KNN, Random Forest...]__
+
+>- __Métricas de avaliação: [Ex: Acurácia, Precisão, Recall, F1-Score]__
+
+>- __Conclusões e recomendações baseadas nos dados analisados.__
+
 #
-
-
 
 ![image](https://github.com/user-attachments/assets/1715658b-822f-49e6-8d59-66642a4a2c74)
 
