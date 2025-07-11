@@ -1,15 +1,15 @@
-#📊 IA.Data.Science
+# 📊 IA.Data.Science
 #
 
-##Este repositório contém um projeto de análise de dados e aprendizado de máquina utilizando Python. O objetivo é aplicar técnicas de ciência de dados em um conjunto de dados para extrair insights e treinar modelos preditivos.
+## Este repositório contém um projeto de análise de dados e aprendizado de máquina utilizando Python. O objetivo é aplicar técnicas de ciência de dados em um conjunto de dados para extrair insights e treinar modelos preditivos.
 #
 
-#🔍 Objetivo
+# 🔍 Objetivo
 #
 
-##Explorar, limpar, visualizar e modelar dados com foco em aprendizado supervisionado e não supervisionado, utilizando ferramentas amplamente utilizadas no mercado.
+## Explorar, limpar, visualizar e modelar dados com foco em aprendizado supervisionado e não supervisionado, utilizando ferramentas amplamente utilizadas no mercado.
 
-#🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 #
 
 >- __Python (Jupyter Notebook)__
