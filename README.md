@@ -22,6 +22,8 @@
     # Aquivo Notebook com toda a análise
 >- 🗎 README.md     
     # Arquivo com a descrição do projeto
+>- 🗎 requirements.txt    
+    # Arquivo com as bibliotecas impots do projetos
 #
 # 📈 Etapas Realizadas
 
